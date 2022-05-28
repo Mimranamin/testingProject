@@ -1,0 +1,12 @@
+
+    .append_btn{
+        float:right;
+        padding: 5px 12px;
+        margin: 2px;
+    }
+    .list_color a{
+    	/* background-color:red; */
+    	color: #404040 !important;
+    	font-weight: bold;	
+        border-color: #404040;
+    }
